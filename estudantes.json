@@ -1,0 +1,74 @@
+[
+    {
+        "nome":"Jhennifer",
+        "nota": 7,
+        "curso": "QA"
+    },
+    {
+        "nome":"Ronaldo",
+        "nota": 6,
+        "curso": "SQL"
+    },
+    {
+        "nome":"Onorina",
+        "nota": 10,
+        "curso": ["Dev", "Frontend"]
+    },
+    {
+        "nome":"Reginaldo",
+        "nota": 5,
+        "curso": ["QA", "UX", "Mongo DB"]
+    },
+    {
+        "nome":"Nícollas",
+        "nota": 8,
+        "curso": ["Backend", "Frontend"]
+    },
+    {
+        "nome":"Gabriel",
+        "nota": 4,
+        "curso":"QA",
+        "observação":"Solicitou revisão"
+    },
+    {
+        "nome":"José Fernando",
+        "nota": 9,
+        "curso":"SQL",
+        "dataMatricula":"20/02/2026"
+    },
+    {
+        "nome":"Davi",
+        "nota": 7,
+        "curso": ["Mongo", "Frontend"]
+    },
+    {
+        "nome":"José Victor",
+        "nota": 5,
+        "curso": ["UX", "Mongo DB"],
+        "observação":"Solicitou revisão"
+    },
+    {
+        "nome":"Raimundo",
+        "nota": 4,
+        "curso":"QA",
+        "status":"reprovad0"
+    },
+    {
+        "nome":"Fernando",
+        "nota": 9,
+        "curso":"SQL",
+        "status":"aprovado"
+    },
+    {
+        "nome":"Alexandra",
+        "nota": 5,
+        "curso": ["Mongo DB", "Frontend"],
+        "status":"reprovada"
+    },
+    {
+        "nome":"Eduardo",
+        "nota": 8,
+        "curso":"Frontend",
+        "dataMatricula":"01/03/2026"
+    }
+]

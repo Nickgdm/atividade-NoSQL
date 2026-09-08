@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Edinalva",
+    "nota": 0,
+    "cargo": "professora",
+    "curso": "QA"
+  },
+  {
+    "nome": "Tantanos",
+    "nota": 0,
+    "cargo": "professor",
+    "curso": "SQL"
+  },
+  {
+    "nome": "Wesley",
+    "nota": 0,
+    "cargo": "professor",
+    "curso": ["Mongo DB", "Frontend"]
+  }
+]
